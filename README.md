@@ -32,6 +32,23 @@ This project involves the following steps:
 6. **Streamlit Demo**: Build a Streamlit web app to interactively demonstrate the machine learning models.
 
 ---
+## 💻 Sample Dashboard Screenshots
+
+Here are some sample screenshots of the Power BI dashboard visualizations:
+
+![KPI Cards for Tax Insights](assets/screenshots/kpi_cards.png)
+*Figure 1: KPI Cards for Total Tax, Taxable Sales, and Average Tax per Return.*
+
+![Tax Trend Over Time](assets/screenshots/sales_trend.png)
+*Figure 2: Line Chart showing tax trends over time (Month vs Computed Tax)..*
+
+![Product (County/City) Tax Performance](assets/screenshots/product_performance.png)
+*Figure 3: Bar Chart comparing tax performance across counties.*
+
+![Tax Distribution by Region (Map)](assets/screenshots/city_sales_map.png)
+*Figure 4: Geographic analysis of computed tax by city on a map..*
+
+---
 
 ## Getting Started
 
@@ -90,3 +107,6 @@ SalesTax-Intelligence/
 │   └── dashboard.pbix              # Power BI file with interactive visuals
 │
 └── README.md                       # Project documentation
+
+
+
