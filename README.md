@@ -45,8 +45,6 @@ Here are some sample screenshots of the Power BI dashboard visualizations:
 ![Product (County/City) Tax Performance](assets/screenshots/product_performance.png)
 *Figure 3: Bar Chart comparing tax performance across counties.*
 
-![Tax Distribution by Region (Map)](assets/screenshots/city_sales_map.png)
-*Figure 4: Geographic analysis of computed tax by city on a map..*
 
 ---
 
