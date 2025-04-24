@@ -45,6 +45,10 @@ Here are some sample screenshots of the Power BI dashboard visualizations:
 *Figure 3: Bar Chart and Pie-chart comparing tax performance across counties.*
 
 ---
+[Download the dataset](https://catalog.data.gov/dataset/quarterly-retail-sales-tax-data-by-county-and-city)
+
+
+---
 
 
 
