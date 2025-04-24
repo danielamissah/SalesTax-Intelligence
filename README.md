@@ -11,10 +11,10 @@ The project includes the following:
 
 ## Features
 
-- **Sales Tax Prediction**: Predicts computed tax values based on taxable sales data using Random Forest regression model.
-- **Economic Segmentation**: Clusters counties into distinct groups based on their sales tax data using KMeans and DBSCAN clustering.
+- **Sales Tax Prediction**: Predicts computed tax values based on taxable sales data using a Random Forest regression model.
+- **Economic Segmentation**: Clusters counties into distinct groups based on their sales tax data using K-Means and DBSCAN clustering.
 - **Interactive Dashboard**: Power BI dashboard for visualizing trends, insights, and the results of the machine learning models.
-- **Time Series Forecasting**: Perform time series forecasting using Holt-Winters Exponential Smoothing.
+- **Time Series Forecasting**: Project tax revenue for budgeting and planning using Holt-Winters Exponential Smoothing.
 
 
 
@@ -27,7 +27,7 @@ This project involves the following steps:
 2. **Data Transformation**: Perform data cleaning, transformation, and feature engineering using SQL and Python.
 3. **ETL Pipeline**: Implement ETL processes to clean, aggregate, and transform data before loading it into Power BI.
 4. **Machine Learning Models**: Develop and train models for tax prediction (regression), clustering (economic segmentation), and time series forecasting.
-5. **Power BI Dashboard**: Create an interactive dashboard to visualize trends, and insights.
+5. **Power BI Dashboard**: Create an interactive dashboard to visualize trends and insights.
 
 
 ---
@@ -45,14 +45,6 @@ Here are some sample screenshots of the Power BI dashboard visualizations:
 *Figure 3: Bar Chart and Pie-chart comparing tax performance across counties.*
 
 ---
- Download the **SalesTax dataset** (link to your data):
-
-    [Download Dataset](https://catalog.data.gov/dataset/quarterly-retail-sales-tax-data-by-county-and-city)
-
-
-
----
-
 
 
 
