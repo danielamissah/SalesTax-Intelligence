@@ -37,7 +37,7 @@ FROM quarterlysalestax
 GROUP BY county
 ORDER BY percent_contribution DESC;
 
--- Get avg and stddev
+-- Get avg and stddev for anomaly detection
 SELECT 
     AVG(tax_per_sale_ratio) AS mean_val,
     STDDEV(tax_per_sale_ratio) AS std_val
