@@ -6,7 +6,7 @@ The project includes the following:
 - **ETL pipeline** to clean and prepare the data for analysis.
 - **Machine Learning models** for regression, classification, clustering, and anomaly detection.
 - **Power BI Dashboard** for interactive data visualization.
-- **Streamlit app** for a hands-on demo of machine learning predictions.
+
 
 ---
 
@@ -74,9 +74,9 @@ To get started with the project locally, follow these steps:
 
 3. Download the **SalesTax dataset** (link to your data):
 
-    [Download Dataset](https://link-to-dataset.com)
+    [Download Dataset](https://catalog.data.gov/dataset/quarterly-retail-sales-tax-data-by-county-and-city)
 
-4. Follow the steps below to run the **Streamlit app** and access the **Power BI Dashboard**.
+
 
 ---
 
@@ -98,8 +98,6 @@ SalesTax-Intelligence/
 │   ├── clustering_model.py         # KMeans clustering model for segmentation
 │   └── anomaly_detection_model.py  # Isolation Forest model for anomaly detection
 │
-├── streamlit_app/
-│   └── app.py                      # Streamlit app for interactive demo
 │
 ├── powerbi_dashboard/
 │   └── dashboard.pbix              # Power BI file with interactive visuals
