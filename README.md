@@ -1,6 +1,6 @@
 # SalesTax Intelligence
 
-**SalesTax Intelligence** is a comprehensive data analysis and machine learning project designed to analyze and predict sales tax patterns, classify counties or cities based on tax contributions, perform anomaly detection, and cluster counties for segmentation. The project integrates data wrangling, machine learning, and visualization tools like **SQL**, **Power BI**, **Tableau**, and **Excel** to deliver actionable insights to stakeholders.
+**SalesTax Intelligence** is a comprehensive data analysis and machine learning project designed to analyze and predict sales tax patterns, classify counties or cities based on tax contributions, perform forecasting, and cluster counties for segmentation. The project integrates data wrangling, machine learning, and visualization tools like **SQL**, **Power BI**, **Tableau**, and **Excel** to deliver actionable insights to stakeholders.
 
 The project includes the following:
 - **ETL pipeline** to clean and prepare the data for analysis.
